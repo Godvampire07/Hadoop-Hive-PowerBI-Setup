@@ -293,5 +293,7 @@ This repository is licensed under the **Apache 2.0 License**. Feel free to fork 
 
 ## ✍️ Author
 
-**Meraj Alam**
+By Department Of Artificial Intelligence of SVNIT Surat
+Meraj Alam (U23AI094)
+Mihir Hajare (U23AI092)
 GitHub: [@Godvampire07](https://github.com/Godvampire07)
